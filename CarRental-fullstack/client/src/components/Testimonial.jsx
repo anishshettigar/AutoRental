@@ -8,21 +8,21 @@ import { motion } from 'motion/react';
 const Testimonial = () => {
   const testimonials = [
     {
-      name: 'Sushma',
+      name: 'Ana de Armas',
       location: 'Barcelona, Spain',
       image: assets.testimonial_image_1,
       testimonial:
         "I've Hired Autos from various companies, but the experience with AutoRental was exceptional.",
     },
     {
-      name: 'Girija',
+      name: 'Sydney Sweeney',
       location: 'New York, USA',
       image: assets.testimonial_image_2,
       testimonial:
         'AutoRental made my trip so much easier. The car was delivered right to my door, and the customer service was fantastic!',
     },
     {
-      name: 'Kusuma',
+      name: 'David Goggin',
       location: 'Sydney, Australia',
       image: assets.testimonial_image_1,
       testimonial:

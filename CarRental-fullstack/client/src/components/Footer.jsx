@@ -47,7 +47,7 @@ const Footer = () => {
               {' '}
               <img src={assets.facebook_logo} className='w-5 h-5' alt='' />{' '}
             </a>
-            <a href='#'>
+            <a href='https://www.instagram.com/_anish_shettigar_/'>
               {' '}
               <img
                 src={assets.instagram_logo}
